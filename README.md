@@ -1,4 +1,4 @@
 # Module-project
 My project for the module called module
 
-by kenny colsh
+by KENNY colsh
